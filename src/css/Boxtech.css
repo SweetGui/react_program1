@@ -1,0 +1,17 @@
+.Box-tech{
+    padding-left: 15px;
+    font-size: 20px;
+    color: #61dafb;
+    display: inline;
+    
+}
+.css-b7q1rs{
+    color: #61dafb;
+    margin-left: 10px;
+    cursor: pointer; 
+}
+.css-b7q1rs,
+.Box-tech:hover{
+    color: #fff;
+    cursor: pointer;
+}

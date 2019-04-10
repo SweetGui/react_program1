@@ -1,0 +1,23 @@
+.Header-sub{
+    font-size: 14px;
+    font-weight: 200;
+    color: #fff;
+    display:inline-block;
+   padding-left: 20px;
+   padding-right: 20px;
+  
+}
+.Header-sub:hover{
+    color: #61dafb;
+    cursor: pointer;
+}
+.Header-subdiv{
+    position: relative;
+    right: 60px;
+    float: right;
+}
+.css-83uoqv{
+    margin-left: -17px;
+    vertical-align: -2px;
+    color: #6d6d6d;
+}
